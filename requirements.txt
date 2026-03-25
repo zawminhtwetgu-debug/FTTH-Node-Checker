@@ -5,3 +5,4 @@ folium
 requests
 openpyxl
 xlsxwriter
+altair
